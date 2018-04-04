@@ -1,2 +1,2 @@
 # Key-Frame-Extraction
-A matlab program that preform key-frame extraction 
+A matlab program that preforms key-frame extraction 
